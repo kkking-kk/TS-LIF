@@ -7,7 +7,7 @@
 
 
 ## Installation
-To install SeqSNN in a new conda environment:
+To install TS-LIF within (SeqSNN) in a new conda environment:
 ```
 conda create -n SeqSNN python=[3.8, 3.9, 3.10]
 conda activate SeqSNN
